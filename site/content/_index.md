@@ -1,6 +1,6 @@
 ---
-title: "Kunnathoor Home Page"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Wingsquare"
+subtitle: Wings for your dream !!!
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
