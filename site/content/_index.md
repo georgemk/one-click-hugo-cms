@@ -1,6 +1,6 @@
 ---
 title: "Wingsquare"
-subtitle: Wings for your dream !!!
+[//]subtitle: Wings for your dream !!!
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
